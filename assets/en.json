@@ -1,0 +1,15 @@
+{
+    "fullNameHint": "Insert Full Name",
+    "emailHint": "Your Email",
+    "myMale": "Male",
+    "myFemale": "Female",
+    "passHint": "Your Password",
+    "confirmPassHint": "Confirm Your Password",
+    "signUpHint": "SignUp Now",
+    "errorEmailOne": "The Name Field cannot be Empty",
+    "errorEmailTow": "The Name has To be at least 2 charactars long",
+    "passwordError1": "The Password Field cannot be Empty",
+    "passwordError2": "The Password has To be at least 6 charactars long",
+    "goNextOne": "All is Ok? Do u Want to",
+    "goNextTwo": " Change Lang!"
+}

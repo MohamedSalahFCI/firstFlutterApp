@@ -1,0 +1,15 @@
+{
+    "fullNameHint": "ادخل الاسم بالكامل",
+    "emailHint": "الايميل",
+    "myMale": "ذكر",
+    "myFemale": "انثي",
+    "passHint": "كلمة المرور",
+    "confirmPassHint": "اعادة كلمة المرور",
+    "signUpHint": "تسجيل الدخول الان",
+    "errorEmailOne": "لا يمكن ان يكون فارغ",
+    "errorEmailTow": "الايميل يجب ان يكون علي الاقل مكون من 3 حروف",
+    "passwordError1": "هذا الحقل لا يمكن ان يكون فارغ",
+    "passwordError2": "كلمة المرور يجب ان تكون علي الاقل 6 ارقام",
+    "goNextOne": "كل شئ تمام ؟ هل تريد",
+    "goNextTwo": "  تغيير اللغه"
+}
